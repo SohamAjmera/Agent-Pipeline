@@ -62,7 +62,7 @@ Results are written to `results/`.
 - KB and CSV are small and illustrative only.
 
 ### Demo Video
-Add a 5–8 minute screencast link here explaining the architecture, walking through the code, and running 3–4 queries.
+https://youtu.be/JVxaDvAfyKU
 
 ### License
 MIT
